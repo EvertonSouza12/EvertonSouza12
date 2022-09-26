@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, Everton
+#### Estudante de Ciência de Dados
+![Estudante de Ciência de Dados](https://abracd.org/wp-content/uploads/2020/07/banner_data_science1.png)
 
-<!--
-**EvertonSouza12/EvertonSouza12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cursando CST em Ciência de Dados na Univali.
 
-Here are some ideas to get you started:
+Skills: Power Bi / SQL / Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Python / Spark / Hadoop 
+- 📫 How to reach me: https://www.linkedin.com/in/everton-s/ 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EvertonSouza12)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonSouza12)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=EvertonSouza12&show_icons=true)
