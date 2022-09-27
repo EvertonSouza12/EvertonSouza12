@@ -1,4 +1,3 @@
-#### Estudante de Ciência de Dados
 ![Estudante de Ciência de Dados](https://abracd.org/wp-content/uploads/2020/07/banner_data_science1.png)
 
 Cursando CST em Ciência de Dados na Univali.
