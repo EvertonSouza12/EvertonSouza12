@@ -5,7 +5,7 @@ Cursando CST em Ciência de Dados na Univali.
 
 Skills: Power Bi / SQL / Docker
 
-- 🌱 I’m currently learning Python / Spark / Hadoop 
+
 - 📫 How to reach me: https://www.linkedin.com/in/everton-s/ 
 
 
