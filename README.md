@@ -2,7 +2,7 @@
 
 Cursando CST em Ciência de Dados na Univali.
 
-Skills: Power Bi / SQL / Docker
+Skills: Power Bi / SQL
 
 
 - 📫 How to reach me: https://www.linkedin.com/in/everton-s/ 
