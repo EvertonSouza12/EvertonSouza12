@@ -21,4 +21,4 @@ Atualmente aprendendo Scala e Spark no tempo livre
 ## Minha Stack
 
 
-![](https://skills.thijs.gg/icons?i=py,postgres,scala,docker,&theme=dark)
+![](https://skills.thijs.gg/icons?i=py,scala,postgres,docker,&theme=dark)
