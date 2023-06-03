@@ -10,6 +10,7 @@ Atualmente sou estagiário de Analise e Desonvolvimento e Sistemas na [Meu Rodap
 Cursando o Terceiro Período de Ciência de Dados na Univali
 
 Atualmente aprendendo Scala e Spark no tempo livre
-## Stack
-Scala e Python
+## Minha Stack
 
+
+![](https://skills.thijs.gg/icons?i=py,postgres,scala,docker,&theme=dark)
