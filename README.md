@@ -10,9 +10,6 @@ Cursando o Terceiro Período de Ciência de Dados na Univali
 
 
 
-Atualmente aprendendo Scala e Spark no tempo livre
-
-
 [Meu Portifolio](https://evertonsouza12.github.io/portifolio/)
 
 
