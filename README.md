@@ -18,4 +18,4 @@ Cursando o Terceiro Período de Ciência de Dados na Univali
 ## Minha Stack
 
 
-![](https://skills.thijs.gg/icons?i=py,scala,postgres,docker,&theme=dark)
+![](https://skills.thijs.gg/icons?i=py,postgres,docker,&theme=dark)
