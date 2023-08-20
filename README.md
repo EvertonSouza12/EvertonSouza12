@@ -18,4 +18,4 @@ Cursando Quarto Período de Ciência de Dados na Univali
 ## Minha Stack
 
 
-![](https://skills.thijs.gg/icons?i=py,flask,postgres,mysql,&theme=dark)
+![](https://skills.thijs.gg/icons?i=py,postgres,mysql,&theme=dark)
