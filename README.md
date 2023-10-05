@@ -7,15 +7,3 @@ Atualmente sou estagiário de Analise e Desonvolvimento e Sistemas na [Meu Rodap
 
 
 Cursando Quarto Período de Ciência de Dados na Univali
-
-
-
-[Meu Portifolio](https://evertonsouza12.github.io/portifolio/)
-
-
-
-
-## Minha Stack
-
-
-![](https://skills.thijs.gg/icons?i=py,postgres,mysql,&theme=dark)
